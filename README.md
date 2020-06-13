@@ -1,2 +1,2 @@
 # Medium_Blog_Notebooks
-This contain notebooks used for blogs on Medium.
+This contain all Jupyter notebooks used for blogs on Data Science Medium.
